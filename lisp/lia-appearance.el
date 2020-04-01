@@ -12,7 +12,7 @@
   (setq doom-themes-enable-bold t
         doom-themes-enable-italic t)
   :config
-  (load-theme 'doom-one t)
+  (load-theme 'doom-nord t)
   ;; (add-to-list 'custom-theme-load-path "~/.emacs.d/themes")
   ;; (load-theme 'xresources)
   (doom-themes-org-config))
